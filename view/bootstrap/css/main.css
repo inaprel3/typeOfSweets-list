@@ -1,0 +1,25 @@
+body { 
+    /*background: url('back.jpeg');*/
+    background: url('alsoback.jpg');
+    color: rgb(255, 255, 255);
+}
+
+div.sweet-list, div.user-info, div.table-books {
+    margin-top: 20px;
+}
+
+section.books {
+    margin-top: 40px;
+}
+
+div.user-info a, div.sweet-control a {
+    margin-left: 0px;
+}
+
+div.table-sweets table th {
+    text-align: center;
+}
+
+div.add-book {
+    margin-bottom: 10px;
+}
